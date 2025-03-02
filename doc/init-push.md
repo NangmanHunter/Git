@@ -1,0 +1,10 @@
+- github-repository생성
+- git config --global init.defaultBranch main
+- git init
+- git remote add origin https://github.com/user-name/repo-name.git
+- git pull origin main
+- git add .
+- git commit -m "m"
+- git push origin main
+
+- git checkout -b main
