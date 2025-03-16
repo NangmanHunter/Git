@@ -3,5 +3,5 @@
 - git init
 - git remote add origin https://github.com/user-name/repo-name.git
 - git add .
-- git commit -m "m"
+- git commit -m "test"
 - git push origin main
