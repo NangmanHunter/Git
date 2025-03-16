@@ -6,5 +6,5 @@
 - :wq 
 - enter
 - git add .
-- git commit -m "m"
+- git commit -m "test"
 - git push origin main
