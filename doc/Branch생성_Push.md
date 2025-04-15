@@ -1,6 +1,4 @@
 - git branch ...
-
-
 - git add .
 - git commit -m "bac"
 - git push origin ...
