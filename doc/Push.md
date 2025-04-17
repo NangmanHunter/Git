@@ -1,3 +1,5 @@
 Push
 - git push
-- git push origin main
+  - git push
+  - git push origin
+  - git push origin main
