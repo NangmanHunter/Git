@@ -52,6 +52,7 @@ BranchPush
 - git push origin 🪜...
 
 ㅤ  
+Alias
 - CommitCreatePush
 - Commit▶️Create▶️Push
 - Commit▶️BranchCreate▶️BranchPush
@@ -75,6 +76,8 @@ Push
 - git push origin 🪜...
 
 ㅤ  
+ㅤ  
+Alias
 - CommitCreatemovePush
 - Commit▶️Createmove▶️Push
 - Commit▶️CreateMove▶️Push
