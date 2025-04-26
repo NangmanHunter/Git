@@ -65,7 +65,7 @@ Alias
 - git commit -m "bac"
 - git branch -b 🪜...
 - git push origin 🪜...
-### 🔍  
+### 📌  
 Commit
 - git add .
 - git commit -m "bac"
