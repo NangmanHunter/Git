@@ -65,7 +65,6 @@ Alias
 - git push origin 🪜...
 
 ㅤ  
-ㅤ  
 Commit
 - git add .
 - git commit -m "bac"
@@ -76,7 +75,6 @@ CreateMove
 Push
 - git push origin 🪜...
 
-ㅤ  
 ㅤ  
 Alias
 - CommitCreatemovePush
