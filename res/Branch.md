@@ -40,7 +40,7 @@ Alias
 - git branch 🪜...
 - git push origin 🪜...
 
-### 📌Module
+ㅤ  
 Commit
 - git add .
 - git commit -m "bac"
@@ -51,11 +51,11 @@ BranchCreate
 BranchPush
 - git push origin 🪜...
 
-
-### 🚥Alias
+ㅤ  
 - CommitCreatePush
 - Commit▶️Create▶️Push
 - Commit▶️BranchCreate▶️BranchPush
+
 
 ## CommitCreatemovePush
 - git add .
@@ -63,7 +63,7 @@ BranchPush
 - git branch -b 🪜...
 - git push origin 🪜...
 
-### 📌Module
+ㅤ  
 Commit
 - git add .
 - git commit -m "bac"
@@ -74,12 +74,13 @@ CreateMove
 Push
 - git push origin 🪜...
 
-### 🚥Alias
+ㅤ  
 - CommitCreatemovePush
 - Commit▶️Createmove▶️Push
 - Commit▶️CreateMove▶️Push
 - Commit▶️BranchCreatemove▶️BranchPush
 - Commit▶️BranchCreateMove▶️BranchPush
+
 
 
 

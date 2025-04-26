@@ -13,7 +13,7 @@ Alias
 - git commit -m "bac"
 - git push origin main
 
-### 📌Module
+ㅤ  
 Commit
 - git add .
 - git commit -m "bac"
@@ -21,7 +21,7 @@ Commit
 PushMain
 - git push origin main
 
-### 🚥Alias
+ㅤ  
 - CommitPushmain
 - CommitPushMain
 - Commit▶️Pushmain
