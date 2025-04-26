@@ -12,10 +12,13 @@ LocalBranch 👉Branch
 RemoteBranch👉RemoteBranch
 ```
 ## BranchList
-- git branch
+- ```
+  git branch
+  ```
 ## BranchStauts
-- git status
-
+- ```
+  git status
+  ```
 
 
 ## BranchCreate
@@ -68,17 +71,18 @@ Commit▶️BranchCreateMove▶️BranchPush
 
 
 Commit
-```
-git add .
-git commit -m "bac"
-```
+- ```
+  git add .
+  git commit -m "bac"
+  ```
 
 CreateMove
 - git branch -b 🪜...
 
 Push
-- git push origin 🪜...
-
+- ```
+  git push origin 🪜...
+  ```
 
 ## RemotebranchRemove
 ```
@@ -89,10 +93,10 @@ RemoteBranch Remove
 ```
 
 RemoteBranchRemove
-```
-git push origin --d 🪜...
-```
-```
-git push origin --delete 🪜...
-```
+- ```
+  git push origin --d 🪜...
+  ```
+- ```
+  git push origin --delete 🪜...
+  ```
 
