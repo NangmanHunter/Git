@@ -75,7 +75,7 @@ CreateMove
 
 Push
 - git push origin 🪜...
-### ▶️
+### 🚥
 - CommitCreatemovePush
 - Commit▶️Createmove▶️Push
 - Commit▶️CreateMove▶️Push
