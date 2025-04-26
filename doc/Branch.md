@@ -25,7 +25,7 @@ RemoteBranch👉RemoteBranch
 - git branch -delete 🪜...
 
 
-```bash
+```shell
 git branch -delete 🪜...
 ```
 ## BranchMove
@@ -68,8 +68,10 @@ Commit▶️BranchCreateMove▶️BranchPush
 
 
 Commit
-- git add .
-- git commit -m "bac"
+```
+git add .
+git commit -m "bac"
+```
 
 CreateMove
 - git branch -b 🪜...
@@ -87,5 +89,10 @@ RemoteBranch Remove
 ```
 
 RemoteBranchRemove
-- git push origin --d 🪜...
-- git push origin --delete 🪜...
+```
+git push origin --d 🪜...
+```
+```
+git push origin --delete 🪜...
+```
+
