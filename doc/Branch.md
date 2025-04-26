@@ -36,6 +36,9 @@ CheckoutMethod
 
 SwitchMethod
 - git switch -c 🪜...
+
+
+
 ## BranchCreatePush
 Create
 - git branch 🪜...
