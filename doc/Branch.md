@@ -22,6 +22,7 @@ RemoteBranch👉RemoteBranch
 - git branch 🪜...
 ## BranchRemove
 - git branch -d 🪜...
+- git branch -delete 🪜...
 
 
 ## BranchMove
@@ -32,13 +33,15 @@ RemoteBranch👉RemoteBranch
 - git switch -c 🪜...
 
 
-## BranchCreatePush
+## CommitBranchCreatePush
+Commit
+- git add .
+- git commit -m "bac"
+
 Create
 - git branch 🪜...
 
 Push
-- git add .
-- git commit -m "bac"
 - git push origin 🪜...
 ## BranchCreateMovePush
 CreateMove
@@ -51,4 +54,5 @@ Push
 
 
 ## RemotebranchRemove
+- git push origin --d 🪜...
 - git push origin --delete 🪜...
