@@ -25,18 +25,11 @@ RemoteBranch👉RemoteBranch
 
 
 ## BranchMove
-CheckoutMethod
 - git checkout 🪜...
-
-SwitchMethod
 - git switch 🪜...
 ## BranchMoveCreate
-CheckoutMethod
 - git checkout -b 🪜...
-
-SwitchMethod
 - git switch -c 🪜...
-
 
 
 ## BranchCreatePush
@@ -48,7 +41,7 @@ Push
 - git commit -m "bac"
 - git push origin 🪜...
 ## BranchCreateMovePush
-Create
+CreateMove
 - git branch -b 🪜...
 
 Push
