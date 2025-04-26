@@ -2,8 +2,15 @@
 
 
 ## BranchType
+Branch
 - LocalBranch
 - RemoteBranch
+
+Alias
+```
+LocalBranch 👉Branch
+RemoteBranch👉RemoteBranch
+```
 ## BranchList
 - git branch
 ## BranchStauts
@@ -16,18 +23,20 @@
 - git branch -d 🪜...
 
 ## BranchMove
-checkout
 - git checkout 🪜...
 
-switch
+SwitchMethod
 - git switch 🪜...
 ## BranchMoveCreate
-checkout
 - git checkout -b 🪜...
 
-switch
+SwitchMethod
 - git switch -c 🪜...
 
 
 
 
+
+
+## RemotebranchRemove
+- git push origin --delete 🪜...
