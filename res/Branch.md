@@ -5,8 +5,7 @@
 Branch
 - LocalBranch
 - RemoteBranch
-
-Alias
+---
 - LocalBranch 👉Branch
 - RemoteBranch👉RemoteBranch
 ## BranchList
@@ -36,11 +35,11 @@ Alias
 
 
 ## CommitCreatePush
-- CommitCreatePush
-- Commit▶️Create▶️Push
-- Commit▶️BranchCreate▶️BranchPush
-
-
+- git add .
+- git commit -m "bac"
+- git branch 🪜...
+- git push origin 🪜...
+---
 Commit
 - git add .
 - git commit -m "bac"
@@ -50,14 +49,16 @@ BranchCreate
 
 BranchPush
 - git push origin 🪜...
+--- 
+- CommitCreatePush
+- Commit▶️Create▶️Push
+- Commit▶️BranchCreate▶️BranchPush
 ## CommitCreatemovePush
-- CommitCreatemovePush
-- Commit▶️Createmove▶️Push
-- Commit▶️CreateMove▶️Push
-- Commit▶️BranchCreatemove▶️BranchPush
-- Commit▶️BranchCreateMove▶️BranchPush
-
-
+- git add .
+- git commit -m "bac"
+- git branch -b 🪜...
+- git push origin 🪜...
+---
 Commit
 - git add .
 - git commit -m "bac"
@@ -67,14 +68,18 @@ CreateMove
 
 Push
 - git push origin 🪜...
+---
+- CommitCreatemovePush
+- Commit▶️Createmove▶️Push
+- Commit▶️CreateMove▶️Push
+- Commit▶️BranchCreatemove▶️BranchPush
+- Commit▶️BranchCreateMove▶️BranchPush
 
 ## RemotebranchRemove
+- git push origin --d 🪜...
+- git push origin --delete 🪜...
+---
 - RemotebranchRemove
 - RemoteBranchRemove
 - Remotebranch Remove
 - RemoteBranch Remove
-
-RemoteBranchRemove
-- git push origin --d 🪜...
-- git push origin --delete 🪜...
-
