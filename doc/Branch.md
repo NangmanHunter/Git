@@ -12,7 +12,7 @@ LocalBranch 👉Branch
 RemoteBranch👉RemoteBranch
 ```
 ## BranchList
-- ```
+- ```bash
   git branch
   ```
 ## BranchStauts
@@ -22,25 +22,41 @@ RemoteBranch👉RemoteBranch
 
 
 ## BranchCreate
-- git branch 🪜...
+- ```bash
+  git branch 🪜...
+  ```
 ## BranchRemove
-- git branch -d 🪜...
-- git branch -delete 🪜...
+- ```bash
+  git branch -d 🪜...
+  ```
+- ```bash
+  git branch -delete 🪜...
+  ```
 
 
-```shell
+```bash
 git branch -delete 🪜...
 ```
 ## BranchMove
-- git checkout 🪜...
-- git switch 🪜...
+- ```bash
+  git checkout 🪜...
+  ```
+- ```bash
+  git switch 🪜...
+  ```
 ## BranchMoveCreate
-- git checkout -b 🪜...
-- git switch -c 🪜...
+- ```bash
+  git checkout -b 🪜...
+  ```
+- ```bash
+  git switch -c 🪜...
+  ```
 
 
 ## BranchPush
-- git push origin 🪜...
+- ```bash
+  git push origin 🪜...
+  ```
 
 
 ## CommitCreatePush
@@ -52,14 +68,22 @@ Commit▶️BranchCreate▶️BranchPush
 
 
 Commit
-- git add .
-- git commit -m "bac"
+- ```bash
+  git add .
+  ```
+- ```bash
+  git commit -m "bac"
+  ```
 
 BranchCreate
-- git branch 🪜...
+- ```bash
+  git branch 🪜...
+  ```
 
 BranchPush
-- git push origin 🪜...
+- ```bash
+  git push origin 🪜...
+  ```
 ## CommitCreatemovePush
 ```
 CommitCreatemovePush
@@ -77,7 +101,9 @@ Commit
   ```
 
 CreateMove
-- git branch -b 🪜...
+- ```bash
+  git branch -b 🪜...
+  ```
 
 Push
 - ```
