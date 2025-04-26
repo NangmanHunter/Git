@@ -25,6 +25,9 @@ RemoteBranch👉RemoteBranch
 - git branch -delete 🪜...
 
 
+```bash
+git branch -delete 🪜...
+```
 ## BranchMove
 - git checkout 🪜...
 - git switch 🪜...
@@ -38,10 +41,11 @@ RemoteBranch👉RemoteBranch
 
 
 ## CommitCreatePush
-- CommitCreatePush
-- Commit▶️Create▶️Push
-- Commit▶️BranchCreate▶️BranchPush
-
+```
+CommitCreatePush
+Commit▶️Create▶️Push
+Commit▶️BranchCreate▶️BranchPush
+```
 
 
 Commit
@@ -54,12 +58,13 @@ BranchCreate
 BranchPush
 - git push origin 🪜...
 ## CommitCreatemovePush
-- CommitCreatemovePush
-- Commit▶️Createmove▶️Push
-- Commit▶️CreateMove▶️Push
-- Commit▶️BranchCreatemove▶️BranchPush
-- Commit▶️BranchCreateMove▶️BranchPush
-
+```
+CommitCreatemovePush
+Commit▶️Createmove▶️Push
+Commit▶️CreateMove▶️Push
+Commit▶️BranchCreatemove▶️BranchPush
+Commit▶️BranchCreateMove▶️BranchPush
+```
 
 
 Commit
@@ -74,10 +79,12 @@ Push
 
 
 ## RemotebranchRemove
-- RemotebranchRemove
-- RemoteBranchRemove
-- Remotebranch Remove
-- RemoteBranch Remove
+```
+RemotebranchRemove
+RemoteBranchRemove
+Remotebranch Remove
+RemoteBranch Remove
+```
 
 RemoteBranchRemove
 - git push origin --d 🪜...
