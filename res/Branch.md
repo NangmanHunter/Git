@@ -9,7 +9,7 @@ Alias
 - RemoteBranch👉RemoteBranch
 ## BranchList
 - git branch
-## BranchStauts
+## BranchStatus
 - git status
 
 
