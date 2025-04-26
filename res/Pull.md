@@ -1,5 +1,18 @@
-Pull
-- git pull
-  - git pull
-  - git pull origin
-  - git pull origin main
+# Pull
+
+
+## Clone
+VSCode
+- CLI
+- Terminal  
+- git clone https://...
+
+SourceTree
+- GUI  
+- (+) 
+- Clone  
+- https://...  
+
+
+## PullMain
+- git pull origin main
