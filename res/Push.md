@@ -22,6 +22,7 @@ PushMain
 - git push origin main
 
 ㅤ  
+Alias
 - CommitPushmain
 - CommitPushMain
 - Commit▶️Pushmain
