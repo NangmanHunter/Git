@@ -1,6 +1,4 @@
 # Branch
-
-
 ## BranchType
 Branch
 - LocalBranch
@@ -42,8 +40,7 @@ Alias
 - git branch 🪜...
 - git push origin 🪜...
 
->---  
-
+### 📌Module
 Commit
 - git add .
 - git commit -m "bac"
@@ -55,7 +52,7 @@ BranchPush
 - git push origin 🪜...
 
 
-Alias 
+### 🚥Alias
 - CommitCreatePush
 - Commit▶️Create▶️Push
 - Commit▶️BranchCreate▶️BranchPush
@@ -65,7 +62,8 @@ Alias
 - git commit -m "bac"
 - git branch -b 🪜...
 - git push origin 🪜...
-### 📌  
+
+### 📌Module
 Commit
 - git add .
 - git commit -m "bac"
@@ -75,12 +73,15 @@ CreateMove
 
 Push
 - git push origin 🪜...
-### 🚥
+
+### 🚥Alias
 - CommitCreatemovePush
 - Commit▶️Createmove▶️Push
 - Commit▶️CreateMove▶️Push
 - Commit▶️BranchCreatemove▶️BranchPush
 - Commit▶️BranchCreateMove▶️BranchPush
+
+
 
 ## RemotebranchRemove
 - git push origin --d 🪜...
