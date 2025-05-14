@@ -10,10 +10,6 @@
   git push origin main
   ```
 
-- git add .
-- git commit -m "bac"
-- git push origin main
-
 ㅤ  
 Commit
 - git add .
