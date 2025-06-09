@@ -1,0 +1,16 @@
+- GitIgnore
+- Git Ignore
+- git ignore
+- git-ignore
+- gitignore
+- .gitignore
+- .gitignore파일
+- ignore
+- Ignore
+- 무시
+- 이미추적▶️❌GitIgnore적용
+- 캐시제거▶️✅GitIgnore적용
+- 이미 Git이 추적하고 있는 파일은 .gitignore로 무시할 수 없슴
+- 이미추적▶️무시불능
+- 이미추적▶️❌무시
+- 캐시제거▶️❌무시
