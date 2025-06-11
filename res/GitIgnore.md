@@ -19,9 +19,9 @@ git rm --cached -r .
 
 
 ## FileIgnore
-```.gitignore
-📄File
-```
+- ```.gitignore
+  📄File
+  ```
 ## DirectoryIgnore
 - ```.gitignore
   📁Directory/
@@ -29,13 +29,14 @@ git rm --cached -r .
 - ```.gitignore
   📁Directory
   ```
+
 ## FileTrackDirectoryIgnore
-```.gitignore
-📁Directory/
-!📁Directory/📄File
-```
+- ```.gitignore
+  📁Directory/
+  !📁Directory/📄File
+  ```
 ## DirectoryTrackDirectoryIgnore
-```.gitignore
-📁01Directory/
-!📁01Directory/📁02Directory/
-```
+- ```.gitignore
+  📁01Directory/
+  !📁01Directory/📁02Directory/
+  ```
