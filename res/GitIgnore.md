@@ -20,7 +20,6 @@ git rm --cached -r .
 
 ## FileIgnore
 ```.gitignore
-# asd
 📄File
 ```
 ## DirectoryIgnore
