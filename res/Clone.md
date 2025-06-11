@@ -30,6 +30,8 @@ GUI
   git clone 📁https://...
   ```
 
+
+💻Terminal
 - 터미널(관리자)
   ```bash
   cd C:\github-nangmanhunter
@@ -41,3 +43,10 @@ GUI
   git clone 📁https://...
   ```
 
+
+📁Directory
+- 📁00
+  ```bash
+  cd ../
+  git clone 📁https://...
+  ```

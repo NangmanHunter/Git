@@ -91,3 +91,6 @@ git config --global user.email "your.email@example.com"
 ㄴ추후
 ㄴ경과지켜볼것
 ㄴㄱㄱ.
+
+- ❌바로갱신
+- ✅기다릴것ㄱㄱ.

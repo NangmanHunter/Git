@@ -1,0 +1,4 @@
+## CustomGitIgnore
+```ignore
+*.pdf
+```

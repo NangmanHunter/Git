@@ -1,4 +1,4 @@
-
+# IgnoreGit
 ##
 - [Github▶️GitIgnore(Ko)](https://docs.github.com/ko/get-started/git-basics/ignoring-files)
 - [Github▶️GitIgnore(En)](https://docs.github.com/en/get-started/git-basics/ignoring-files)
@@ -17,7 +17,25 @@ git rm --cached -r .
 - -r: 폴더(디렉토리)도 재귀적으로 처리
 
 
-## CustomGitIgnore
-```ignore
-*.pdf
+
+## FileIgnore
+```.gitignore
+📄File
+```
+## DirectoryIgnore
+- ```.gitignore
+  📁Directory/
+  ```
+- ```.gitignore
+  📁Directory
+  ```
+## FileTrackDirectoryIgnore
+```.gitignore
+📁Directory/
+!📁Directory/📄File
+```
+## DirectoryTrackDirectoryIgnore
+```.gitignore
+📁01Directory/
+!📁01Directory/📁02Directory/
 ```
