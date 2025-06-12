@@ -1,15 +1,20 @@
-# IgnoreGit
-##
+# GitIgnore
+## SourceIgnore
 - [Github▶️GitIgnore(Ko)](https://docs.github.com/ko/get-started/git-basics/ignoring-files)
 - [Github▶️GitIgnore(En)](https://docs.github.com/en/get-started/git-basics/ignoring-files)
 
-
+## CreateIgnore
 ```bash
 touch .gitignore
 ```
+
+## ExistingFileIgnore
+📄File
 ```bash
 git rm --cached FILENAME
 ```
+
+📄AllFile
 ```bash
 git rm --cached -r .
 ```
