@@ -1,0 +1,6 @@
+- ExecutionPolicyBypass
+- ExecutionPolicy_Bypass
+- ExecutionPolicy Bypass
+- -ExecutionPolicy Bypass
+- ExecutionPolicy Bypass: 실행 정책 무시 (스크립트 차단 방지)
+- ExecutionPolicy Bypass: 실행정책 무시 (스크립트 차단 방지)

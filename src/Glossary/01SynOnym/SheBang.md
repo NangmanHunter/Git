@@ -1,0 +1,31 @@
+- #!
+- #!<실행할 프로그램 경로>
+- #!/
+- #!/ ...
+- Shebang
+- Hashbang
+- HaSHbang
+- haSHbang
+- SHbang
+- Shbang
+- SHebang
+- Shebang
+- 셰뱅
+- 해시뱅
+- Sharp + Bang
+- Sharp+Bang
+- Sha+Bang
+- Sha + Bang
+- Sha-+Bang
+- Sha- + Bang
+- Sh+Bang
+- She+Bang
+- She + Bang
+- She-+Bang
+- She- + Bang
+- 셰뱅 (Shebang)
+- #(hash) + !(bang)
+- Shebang 또는 Hashbang
+- shebang = "sharp" + "bang"의 조합
+- 📌#▶️sharp (음악 기호에서 따옴)
+- 📌!▶️bang (프로그래머들 사이에서 느낌표 !를 "bang"이라 부름)

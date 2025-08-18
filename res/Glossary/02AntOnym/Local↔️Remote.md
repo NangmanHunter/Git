@@ -1,3 +1,0 @@
-- Local↔️Remote
-- LocalBranch↔️RemoteBranch
-- LocalRepository↔️RemoteRepository

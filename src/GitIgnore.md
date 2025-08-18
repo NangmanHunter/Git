@@ -4,6 +4,7 @@
 - [Github▶️GitIgnore(En)](https://docs.github.com/en/get-started/git-basics/ignoring-files)
 
 ## CreateIgnore
+LinuxShell
 ```bash
 touch .gitignore
 ```

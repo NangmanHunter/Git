@@ -1,4 +1,6 @@
 - GitIgnore
+- GITIgnore
+- GIT Ignore
 - IgnoreGit
 - IgnoreTrack
 - Git Ignore
@@ -9,6 +11,8 @@
 - .gitignore
 - .gitignore파일
 - ignore
+- ignore-git
+- ignoregit
 - ignored
 - Ignore
 - Ignored

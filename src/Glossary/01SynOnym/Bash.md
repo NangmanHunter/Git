@@ -1,0 +1,13 @@
+- bash: 특정한 쉘 프로그램 (가장 인기 많음)
+- bash
+- ba+sh
+- ba + sh
+- ba + shell
+- ba + Shell
+- Ba + Shell
+- ba-sh
+- Bash
+- BaSh
+- BaShell
+- BaShellScript
+- ShellScript▶️Bash
