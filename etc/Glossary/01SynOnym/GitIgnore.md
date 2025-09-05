@@ -1,6 +1,11 @@
 - GitIgnore
+- Git_Ignore
 - GITIgnore
 - GIT Ignore
+- 📌표현▶️Ignore<<GitIgnore
+- 📌표현▶️ignore<<gitignore
+- 📌표현▶️❌Ignore<<✅GitIgnore
+- 📌표현▶️✅GitIgnore
 - IgnoreGit
 - IgnoreTrack
 - Git Ignore

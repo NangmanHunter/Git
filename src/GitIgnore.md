@@ -1,15 +1,20 @@
 # GitIgnore
-## SourceIgnore
+
+
+
+Source
 - [Github▶️GitIgnore(Ko)](https://docs.github.com/ko/get-started/git-basics/ignoring-files)
 - [Github▶️GitIgnore(En)](https://docs.github.com/en/get-started/git-basics/ignoring-files)
 
-## CreateIgnore
+
+## Create`GitIgnore`
 LinuxShell
 ```bash
 touch .gitignore
 ```
 
-## ExistingFileIgnore
+
+## ExistingFile`GitIgnore`
 📄File
 ```bash
 git rm --cached FILENAME
@@ -23,12 +28,18 @@ git rm --cached -r .
 - -r: 폴더(디렉토리)도 재귀적으로 처리
 
 
+## File`GitIgnore`
+```.gitignore
+📄File
+```
 
-## FileIgnore
-- ```.gitignore
-  📄File
-  ```
-## DirectoryIgnore
+PdfFile`GitIgnore`
+```gitignore
+*.pdf
+```
+
+
+## Directory`GitIgnore`
 - ```.gitignore
   📁Directory/
   ```
@@ -36,12 +47,15 @@ git rm --cached -r .
   📁Directory
   ```
 
-## FileTrackDirectoryIgnore
+
+## FileTrackDirectory`GitIgnore`
 - ```.gitignore
   📁Directory/
   !📁Directory/📄File
   ```
-## DirectoryTrackDirectoryIgnore
+
+
+## DirectoryTrackDirectory`GitIgnore`
 - ```.gitignore
   📁01Directory/
   !📁01Directory/📁02Directory/
