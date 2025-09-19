@@ -1,0 +1,21 @@
+- SparseCheckOut
+- SparseCheckout
+- sparse-checkout
+- Sparse=부족한
+- Sparse=드문드문
+- Sparse=산재한
+- Sparse=산재
+- Sparse=드문드문한
+- Clone-SparseCheckOut
+- Clone-SparseCheckout
+- clone-sparseCheckout
+- clone-sparsecheckout
+- clone_sparsecheckout
+- clone_sparse-checkout
+- cloneㆍsparse-checkout
+- 실제 파일은 필요한 하위 폴더만 → sparse-checkout으로 다운로드
+- sparse-checkout도 최초에는 `.git` 전체를 내려받아야 합니다
+- `.git` 폴더 필수👉sparse-checkout
+
+- `.git`만 내려받고 실제 파일 내용은 나중에 `sparse-checkout set`으로 지정한 폴더만 체크아웃
+- 나머지 파일은 다운로드되지 않음

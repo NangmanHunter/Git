@@ -1,0 +1,6 @@
+- SubDirectoryGitIgnore
+- SubFolderGitIgnore
+- 하위폴더GitIgnore
+- 하위디렉토리GitIgnore
+- 하위폴더GitIgnore▶️repo/.gitignore → 저장소 전체에 적용됨
+- 하위폴더GitIgnore▶️repo/src/.gitignore → src/와 그 하위 폴더에만 적용됨

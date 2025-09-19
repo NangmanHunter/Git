@@ -50,3 +50,12 @@ GUI
   cd ../
   git clone 📁https://...
   ```
+
+
+##
+```bash
+cd ../
+git clone 📁...
+cd 📄...
+code .
+```
