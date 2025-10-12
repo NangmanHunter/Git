@@ -1,0 +1,16 @@
+- ☑️RemoteLocal
+- RemoteLocal
+- RemoteLocal=RemoteLocal
+- RemoteLocal=RemoteㆍLocal
+- RemoteLocal=RemoteBranchㆍLocalBranch
+- RemoteLocal>>LocalRemote
+- 추구-RemoteLocal>>LocalRemote
+- 바텀업-RemoteLocal<<LocalRemote
+- 터미널-RemoteLocal<<LocalRemote
+- 터미널작업-RemoteLocal<<LocalRemote
+- 탑다운-RemoteLocal>>LocalRemote
+- 추상구상-RemoteLocal>>LocalRemote
+- 위로-RemoteLocal>>LocalRemote
+- 원격위로-RemoteLocal>>LocalRemote
+- 원격저장소-로컬작업대-RemoteLocal>>LocalRemote
+- 통합분리-RemoteLocal>>LocalRemote

@@ -1,26 +1,4 @@
-# Clone
-
-
-CLI
-- VSCode
-- Terminal  
-- git clone https://...
-
-GUI  
-- SourceTree
-- (+) 
-- Clone  
-- https://...  
-
-## CloneGit
-- ```bash
-  git clone 
-  ```
-- ```bash
-  git clone 📁https://...
-  ```
-
-## ChangeDirectoryCloneGit
+## ChangeDirectory`GitClone`
 - ```bash
   cd ...
   git clone 📁https://...
@@ -50,12 +28,3 @@ GUI
   cd ../
   git clone 📁https://...
   ```
-
-
-##
-```bash
-cd ../
-git clone 📁...
-cd 📄...
-code .
-```

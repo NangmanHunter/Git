@@ -1,0 +1,12 @@
+- StagingArea
+- Staging
+- Staging=`git add`
+- Staging=`git add .`
+- [StagingArea](https://git-scm.com/about/staging-area)
+- `git add`+`git commit`
+- `git add`(Staging)+`git commit`(Commit)
+- `git commit -a`(Staging+Commit)
+- WorkFlow▶️WorkingDirecotry👉StagingArea👉Repository
+- Git has something called the "staging area" or "index". 
+- This is an intermediate area where commits can be formatted and reviewed before completing the commit.
+- Index

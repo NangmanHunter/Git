@@ -1,0 +1,4 @@
+## GitStaging
+```bash
+git add .
+```

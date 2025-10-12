@@ -1,0 +1,34 @@
+- Staging
+- Staging=Stage
+- Staging=Add
+- Staging=Adding
+- Staging=GitAdd
+- `Staging`=`GitAdd`
+- Staging=GitAdding
+- Staging=add
+- Staging=`git add`
+- Stage
+- 스테이징
+- Prepare to Commit
+- add
+- Add
+- Adding
+- GitAdd
+- GitAdding
+- git add
+- `git add`
+- Staging (또는 Indexing)
+- Staging
+- GitStaging
+- Indexing
+- Git에서 commit하기 이전에 add하는 단계는 공식적으로 “staging” 단계 또는 “indexing” 단계라고 부릅니다.
+- “commit하기 전에 add하는 단계” → staging 단계 (또는 index 단계)
+- “adding area”
+- “adding stage”
+- git add는 단순히 “추가(add)”하는 게 아니라, 현재 작업 디렉터리의 변경사항을 staging area에 등록(register) 하는 역할을 합니다.
+- 즉, 단순히 “추가(add)”가 아니라 “커밋할 준비를 위해 무대를(stage)에 올려놓는 과정”이에요.
+- 이 비유 때문에 Git 설계자(리누스 토르발스)는 “add” 명령이 하는 일을 staging이라고 개념화했어요.
+- 📌표현▶️표현혼선때문에-Adding<<Staging
+- 📌표현▶️표현혼선때문에-Add<<Stage
+- 📌표현▶️표현혼선때문에-Add-실제추가된것으로 오인.혼선.
+- 📌표현▶️표현혼선때문에-토발즈-Staging으로 명명화

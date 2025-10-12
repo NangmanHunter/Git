@@ -1,0 +1,38 @@
+- GitCommitMessageConvention
+- `GitCommitMessageConvention`
+- GitCommitMessages
+- `git commit -m`
+- `git commit -m ""`
+- `git commit -m ''`
+- `git commit -m `
+- 개발자들 사이에서는 “Git Commit Message Convention (커밋 메시지 규약)” 이라고 불러요.
+- Conventional Commits (공식 규약)
+- “커밋 메시지 규약”은 있음
+- 가장 표준적인 건 Conventional Commits
+- Conventional Commits
+- `Conventional Commits`
+- ConventionalCommits
+- `ConventionalCommits`
+- feat, fix, docs 등으로 시작하는 형태
+- 가장많이쓰는규약▶️https://www.conventionalcommits.org/en/v1.0.0/
+- 이건 Angular 팀이 처음 제안했고, 지금은 오픈소스 커뮤니티 전반에서 사실상 표준처럼 쓰여요.
+- 권장스타일▶️첫 줄(subject)은 50자 이내, 마침표(.) 없이.
+- 권장스타일▶️영어는 명령형 현재 시제 사용: ✅ add, fix, update
+- 권장스타일▶️영어는 명령형 현재 시제 사용: ❌ added, fixed, updated
+- 권장스타일▶️본문(body)은 선택 사항 (무엇을, 왜 했는지 설명 가능)
+- 권장스타일▶️footer는 BREAKING CHANGE: 나 issue ID (#123) 연결할 때 사용
+- 도입이유▶️자동 changelog 생성 가능 → conventional-changelog, semantic-release 같은 도구가 자동 버전 관리 가능
+- 도입이유▶️협업 시 일관성 유지
+- 도입이유▶️이슈 트래킹과 연결 용이
+- 덜엄격한대안들▶️프로젝트에 따라 약간씩 변형된 규약도 있어요
+- 덜엄격한대안들▶️AngularCommitGuidelines👉Angular Commit Guidelines
+- 덜엄격한대안들▶️AngularCommitGuidelines👉AngularCommitGuidelines
+- 덜엄격한대안들▶️AngularCommitGuidelines👉`AngularCommitGuidelines`
+- 덜엄격한대안들▶️AngularCommitGuidelines👉`Angular Commit Guidelines`
+- 덜엄격한대안들▶️Gitmoji👉Gitmoji (이모지 기반 커밋 규약 😎)
+- 덜엄격한대안들▶️Gitmoji👉Gitmoji
+- 덜엄격한대안들▶️Gitmoji👉`Gitmoji`
+- 덜엄격한대안들▶️Gitmoji👉이모지 기반 커밋 규약 😎
+- 덜엄격한대안들▶️Gitmoji👉예: ✨ feat: add new animation / 🐛 fix: resolve crash
+- `ConventionalCommits`-`AngularCommitGuidelines`
+- `ConventionalCommits`-`AngularCommitGuidelines`-`Gitmoji`

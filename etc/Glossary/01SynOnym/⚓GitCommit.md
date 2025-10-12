@@ -1,0 +1,13 @@
+- Commit
+- StagingCommit
+- Staging▶️Commit
+- Stage▶️Commit
+- Committing
+- CommittingStep
+- Committing단계
+- `Committing`
+- GitCommit
+- GitCommitting
+- git commit
+- `git commit`
+- Staged 상태의 변경사항을 저장소(history)에 영구 기록

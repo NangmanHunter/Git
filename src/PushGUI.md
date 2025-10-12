@@ -1,6 +1,6 @@
 # GUIPush
 ## GUICommit
-- ![GUICommit](res/GUICommit.gif)  
+- ![GUICommit](GUI/GUICommit.gif)  
 ## GUICommitPush
-- ![GUICommit](res/GUICommit.gif)
-- ![GUIPush](res/GUIPush.gif)  
+- ![GUICommit](GUI/GUICommit.gif)
+- ![GUIPush](GUI/GUIPush.gif)  

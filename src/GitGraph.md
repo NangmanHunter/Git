@@ -1,14 +1,10 @@
 # GitGraph
 
-Alias
-- GitGraph
-- Gitgraph
-- Graph
-- graph
 
 ## GitgraphTermianl
 - git log --graph
 - git log --graph --all --oneline
+
 ## GitgraphExtension
 VSCode
 - Git Graph

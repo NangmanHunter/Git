@@ -1,12 +1,6 @@
 # Branch
-## BranchType
-Branch
-- LocalBranch
-- RemoteBranch
 
-Alias
-- LocalBranch 👉Branch
-- RemoteBranch👉RemoteBranch
+
 ## BranchList
 - git branch
 ## BranchStatus

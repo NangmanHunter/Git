@@ -1,0 +1,21 @@
+- GitKeep
+- gitkeep
+- .gitkeep
+- .gitKeep
+- .GitKeep
+- `.gitkeep`
+- Git추적위한-Directory추적위해 더미파일넣음.
+- 더미파일
+- DummyFile
+- Dummy
+- dummy
+- dummy-file
+- Gitkeep=더미파일
+- Gitkeep=DummyFile
+- Gitkeep=Dummy
+- 최적화=더미파일넣기-더미파일빼기
+- 최적화=더미파일넣고-더미파일빼기
+- 최적화=더미파일넣고-더미파일지우기
+- 📌표현▶️대칭형-`.GitKeep`<<`.gitkeep`
+- 📌표현▶️대칭형-`.GitKeep`<<`.gitKeep`<<`.gitkeep`
+- 📌표현▶️대칭형-`.gitKeep`<<`.gitkeep`

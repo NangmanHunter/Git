@@ -1,0 +1,4 @@
+- Branch
+- Branch=LocalBranchㆍRemoteBranch
+- Branch=LocalㆍRemote
+- BranchType=LocalㆍRemote

@@ -1,10 +1,14 @@
 - Clone
 - GitClone
+- `Clone`
+- `GitClone`
 - CloneGit
 - Git Clone
 - Clone▶️Pull
 - clone
 - 클론
 - git clone
+- `git clone`
 - git clone https:// ...
 - git clone ...
+- 📌표현▶️절차적-CloneGit<<GitClone

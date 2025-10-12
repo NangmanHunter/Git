@@ -37,3 +37,5 @@
 - Untrack
 - UnTracked
 - UnTrack
+- .gitignore
+- `.gitignore`

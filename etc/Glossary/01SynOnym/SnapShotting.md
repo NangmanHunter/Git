@@ -1,0 +1,4 @@
+- SnapShotting
+- SnapShot
+- 스냅샷
+- https://git-scm.com/book/en/v2/Appendix-C:-Git-Commands-Basic-Snapshotting
