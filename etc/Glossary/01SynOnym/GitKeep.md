@@ -19,3 +19,6 @@
 - 📌표현▶️대칭형-`.GitKeep`<<`.gitkeep`
 - 📌표현▶️대칭형-`.GitKeep`<<`.gitKeep`<<`.gitkeep`
 - 📌표현▶️대칭형-`.gitKeep`<<`.gitkeep`
+- 디렉토리 잡히기위해-더미파일ㄱㄱ.
+- 디렉토리 잡히기위해-더미GitKeep파일ㄱㄱ.
+- 디렉토리 잡히기위해-GitKeep파일ㄱㄱ.

@@ -1,6 +1,6 @@
 ## DeleteGitKeep
 ```ps1
-$path = "C:\github-nangmanhunter\test"
+$path = Get-Location
 $extension = ".gitkeep"
 
 $files = Get-ChildItem -Path $path -File -Filter $extension -Recurse -Force -ErrorAction SilentlyContinue

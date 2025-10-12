@@ -1,6 +1,6 @@
 ## CreateGitKeep
 ```ps1
-$rootPath = "C:\github-nangmanhunter\test"
+$rootPath = Get-Location
 
 # 재귀적으로 각 폴더 검사
 function Check-FolderFiles {
