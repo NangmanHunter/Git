@@ -1,0 +1,15 @@
+- GitCheckOut
+- Git CheckOut
+- GitCheckout
+- Git Checkout
+- git checkout
+- `git checkout`
+- `git checkout <커밋해시>`
+- Ex.`git checkout 846afdd`
+- Ex.`git checkout 846afdd`-이전Hash로가기
+- 깃이전으로 되돌리기.
+- `git checkout main`-다시돌아오기
+- `git checkout main`
+- git이동
+- Git이동
+- 이동

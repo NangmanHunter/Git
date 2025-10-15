@@ -1,10 +1,10 @@
-# Pull
 ## GitPull
 ```
 git pull
 ```
 - MainOrigin👉MainLocal
 - BranchOrigin👉BranchLocal
+
 
 ## GitPullMain
 ```

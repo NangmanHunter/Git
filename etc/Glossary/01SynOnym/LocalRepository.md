@@ -1,6 +1,17 @@
 - LocalRepository
+- `LocalRepository`
+- Local`Repository`
+- LocalRepository=작업한것이 git까지 반영된형태.
+- LocalRepository=`.git`
 - Local Repository
 - 로컬저장소
 - 로컬
 - Local
 - 로컬 저장소
+- [ Working Directory ] --git add--> [ Staging Area ] --git commit--> [ Local Repository ] --git push--> [ Remote Repository ]
+- `RemoteRepository`-`LocalRepository`-`StagingArea`-`WorkingDirectory`
+- `RemoteRepository`-`LocalRepository`-`WorkingDirectory`
+- LocalRepository=로컬저장소-커밋(Commit)이 실제로 저장되는 Git 데이터베이스
+- 통상Repository
+- Repository
+- Repository=LocalRepository

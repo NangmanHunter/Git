@@ -1,4 +1,6 @@
 - RemoteRepository
+- `RemoteRepository`
+- Remote`Repository`
 - Remote Repository
 - 원격저장소
 - Remote

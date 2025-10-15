@@ -1,5 +1,6 @@
 - GitPull
 - Pull
+- Pull=GitPull
 - pull
 - git pull
 - `git pull`

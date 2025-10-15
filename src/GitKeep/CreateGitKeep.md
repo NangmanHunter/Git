@@ -6,10 +6,10 @@ $rootPath = Get-Location
 function Check-FolderFiles {
     param([string]$Path)
 
-    # 현재 폴더의 파일만 검사
-    $files = Get-ChildItem -Path $Path -File -Force -ErrorAction SilentlyContinue
+    # 현재 폴더의 자식 검사
+    $childs = Get-ChildItem -Path $Path -Force -ErrorAction SilentlyContinue
 
-    if ($files) {
+    if ($childs) {
         Write-Host "✅ExistFile🚥📁📄CheckDirectory: $Path"
     } else {
         Write-Host "❌ExistFile🚥📁📭CheckDirectory: $Path"
