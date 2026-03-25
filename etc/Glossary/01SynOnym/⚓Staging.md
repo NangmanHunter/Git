@@ -32,3 +32,5 @@
 - 📌표현▶️표현혼선때문에-Add<<Stage
 - 📌표현▶️표현혼선때문에-Add-실제추가된것으로 오인.혼선.
 - 📌표현▶️표현혼선때문에-토발즈-Staging으로 명명화
+- GitStaging
+- Git.Staging

@@ -1,4 +1,0 @@
-## GitStaging
-```bash
-git add .
-```

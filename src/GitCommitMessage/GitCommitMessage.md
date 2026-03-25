@@ -1,4 +1,4 @@
-##
+## GitCommitMessage
 Form
 ```bash
 <type>(<scope>): <subject>
