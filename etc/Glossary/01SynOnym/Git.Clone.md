@@ -1,0 +1,4 @@
+- Git.Clone
+- GitClone
+- git clone
+- `git clone`

@@ -1,0 +1,11 @@
+## GitOriginLogin
+- 자격삭제
+  - Windows 검색
+  - 자격 증명 관리자
+  - `git:https://github.com`삭제
+- 좀걸림
+  - 생각보다 걸린다.
+  - 당황말것.
+- 재확인
+  - `git push origin main`
+  - `Everything up-to-date`

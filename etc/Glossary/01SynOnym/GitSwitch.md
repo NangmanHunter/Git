@@ -1,0 +1,13 @@
+- GitSwitch
+- git switch
+- `git switch`
+- Git 2.23에서 추가된 안전하고 명확한 명령입니다.
+- 👉 브랜치 전환만 담당합니다.
+- 파일 복원 기능은 제거됐어요.
+- ❌ 파일 복원 불가 (git restore 사용해야 함)
+- 브랜치 이동: `git switch main`
+- 새 브랜치 생성 + 이동: `git switch -c feature/login`
+- git switch = “브랜치 이동 전용 칼”
+- git restore = “파일 복원 전용 칼”
+- git switch = git checkout의 “브랜치 이동 기능만 뽑아낸” 새 명령.
+- 혼동 줄이고 안전하게 쓰기 위해 만들어진 명령이에요.

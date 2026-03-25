@@ -1,0 +1,5 @@
+- Checkout↔️Switch
+- checkout↔️switch
+- `checkout`↔️`switch`
+- `git checkout`↔️`git switch`
+- GitCheckout↔️GitSwitch

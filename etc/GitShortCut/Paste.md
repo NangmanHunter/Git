@@ -1,0 +1,2 @@
+## Paste
+- Shift+Insert

@@ -1,0 +1,5 @@
+- Directory`GitIgnore`
+- Git.Ignore.Directory
+- GitIgnore.Directory
+- GitIgnoreDirectory
+- DirectoryGitIgnore

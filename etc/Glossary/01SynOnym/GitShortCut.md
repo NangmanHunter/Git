@@ -1,0 +1,6 @@
+- GitShortCut
+- ShortCut
+- GitShortCuts
+- ShortCuts
+- 깃단축키
+- 단축키

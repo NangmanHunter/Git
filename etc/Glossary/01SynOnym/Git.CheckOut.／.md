@@ -1,0 +1,13 @@
+- Git에서 브랜치 이름에 **슬래시(/)**를 쓰는 것은 매우 흔하고 권장되는 방식입니다.
+- 단순히 이름에 특수문자를 넣는 수준이 아니라, Git 시스템 안에서는 이걸 **'폴더(디렉토리)'**처럼 인식해서 관리해 줍니다.
+- `/`
+- /
+- ／
+- `／`
+- Git.CheckOut.✅`／`
+- Git.CheckOut.`／`
+- Git.CheckOut.／
+- Git.CheckOut.`\`형태도ㅇㅋ.
+- Git.CheckOut.`\`
+- Git.CheckOut.✅`\`
+- Git.CheckOut.✅`/`

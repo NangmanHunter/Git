@@ -1,0 +1,6 @@
+- CheckoutRevision
+- Checkout Revision
+- **'Revision(리비전)'**은 쉽게 말해 **'수정 기록(버전)'**이라는 뜻입니다.
+- 게임으로 비유하면 이해가 아주 빠릅니다. **Checkout**이 그냥 "다른 캐릭터로 교체"하는 거라면, **Checkout Revision**은 "특정 세이브 파일 시점으로 타임머신 타고 돌아가기"입니다.
+- Checkout (브랜치 이름): "LJW라는 사람이 작업 중인 최신 상태로 갈래!"
+- Checkout Revision (특정 번호): "어제 오후 3시에 커밋했던 그때 그 모습으로 돌아갈래!"

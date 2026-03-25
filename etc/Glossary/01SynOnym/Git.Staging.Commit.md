@@ -1,0 +1,15 @@
+- StagingCommit
+- Git.Staging.Commit
+- GitStagingCommit
+- `GitStagingCommit`
+- `StagingCommit`
+- CommitStaging
+- Staging-StagingCommit
+- Staging-CommitStaging
+- Commit-StagingCommit
+- 📌표현▶️CommitStaging<<StagingCommit
+- 📌표현▶️절차적-CommitStaging<<StagingCommit
+- 📌표현▶️객체적<<절차적-CommitStaging<<StagingCommit
+- 📌표현▶️시간적-CommitStaging<<StagingCommit
+- 📌표현▶️공간적<<시간적-CommitStaging<<StagingCommit
+- 📌표현▶️시간적>>공간적-CommitStaging<<StagingCommit

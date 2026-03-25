@@ -1,0 +1,16 @@
+- GitHubPages
+- ✅Public▶️GitHubPages=✅Public
+- ✅Public▶️GitHubPages=✅Publicㆍ❌Private
+- ✅Public▶️GitHubPages=✅Publicㆍ❌Private-Charge
+- ✅Public▶️GitHubPages=✅Public-❌Private-Charge
+- ✅Public▶️GitHubPages=✅Public-Free-❌Private-Charge
+- ✅Public▶️GitHubPages=✅Publicㆍ❌Private
+- ✅Public▶️GitHubPages=✅Public-❌Private
+- ✅Public▶️GitHubPages=❌Private
+- ✅Public▶️GitHubPages=Free-✅Publicㆍ❌Private
+- `GitHubPages`
+- GitHubPage
+- GitHubPage`s`
+- GitHubPage`s`-s형태-덩어리느낌.-덩어리적으로 관습적으로붙이는형태ㄱㄱ.
+- ✅Public▶️[GitHubPages_Public](https://docs.github.com/ko/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- ✅Public▶️GitHubPages_Public-`Ctrl+F`-`Public`

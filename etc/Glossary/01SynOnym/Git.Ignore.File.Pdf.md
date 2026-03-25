@@ -1,0 +1,2 @@
+- PdfFile`GitIgnore`
+- Git.Ignore.File.Pdf

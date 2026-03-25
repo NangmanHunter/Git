@@ -1,0 +1,3 @@
+- GitIgnore.Create
+- GitIgnore.New
+- Create`GitIgnore`

@@ -1,0 +1,6 @@
+- Git.Ignore.File
+- GitIgnore.File
+- GitIgnoreFile
+- FileGitIgnore
+- GitIgnore`File`
+- File`GitIgnore`
