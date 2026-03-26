@@ -1,7 +1,0 @@
-- UnStaging
-- `UnStaging`
-- Unstaging
-- `git reset`
-- GitReset
-- `GitReset`
-- Reset

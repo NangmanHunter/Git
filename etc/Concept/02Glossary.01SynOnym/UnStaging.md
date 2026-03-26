@@ -1,0 +1,34 @@
+- `git reset .`
+- `git reset HEAD .`
+- `git reset HEAD`
+- `git reset`
+- `git reset`.`git reset HEAD`
+- `git reset`.`git reset HEAD`.`git reset HEAD .`
+- `git reset`.`git reset HEAD`.`git reset HEAD .`.`git restore --staged .`
+- `git reset`.`git reset HEAD`.`git reset HEAD .`.`git restore --staged .`(현행표준권장방식)
+- `git reset`.`git reset HEAD`.`git reset HEAD .`.`git restore --staged .`(현행표준방식)
+- `git reset`>>`git reset HEAD`.`git reset HEAD .`.`git restore --staged .`-내스타일
+- `git restore --staged .`
+- `GitReset`
+- `UnStaging`
+- `Unstaging`.`UnStaging`
+- `UnStaging`.`Unstaging`
+- 가장 짧은 것을 선호한다면: `git reset` (그냥 엔터 치면 다 내려갑니다)
+- 공식 문서나 터미널 메시지에서도 이 용어를 직간접적으로 사용하지만, 재미있게도 Git 명령어 자체에 unstage라는 단어는 없어서 처음엔 좀 헷갈릴 수 있어요.
+- 과거: 무조건 git reset HEAD <파일> 식으로 명확히 써야 했습니다.
+- 명확한 경로를 지정하고 싶다면: `git reset .`
+- 미래(권장): 아예 reset이라는 단어가 어렵다는 피드백을 받아, git restore --staged .라는 더 직관적인 명령어가 새로 나왔습니다.
+- 최신 표준(Best Practice)을 따르고 싶다면: `git restore --staged .`
+- 현재: HEAD는 너무 당연하니까 생략해도 알아듣게(git reset .) 발전했습니다.
+- git reset --hard: 위험함. (작성 중인 코드까지 전부 삭제하고 마지막 커밋 상태로 강제 복구)
+- git reset .
+- git reset .: 안전함. (스테이징만 취소, 코드 유지)
+- Git에서 Staging 영역(Index)에 올라간 파일을 다시 워킹 디렉토리로 내려보내는 것을 보통 "Unstaging(언스테이징)"이라고 부릅니다.
+- GitReset
+- Reset
+- Staging.Unstaging
+- Staging.UnStaging
+- Unstaging
+- UnStaging
+- Unstaging.UnStaging
+- UnStaging.Unstaging

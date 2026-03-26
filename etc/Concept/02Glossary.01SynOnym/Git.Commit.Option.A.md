@@ -1,0 +1,17 @@
+- Git.Commit.Option.A
+- Git.Commit.Option.a
+- Git.Commit.Option.-a
+- Git.Commit.Option.`-a`
+- `-a`
+- `git commit -am ✏️Message`
+- `-a`.✅기존파일
+- `-a`.❌신규파일✅기존파일
+- `-a`.✅기존파일❌신규파일
+- `-a`.✅기존파일.❌신규파일
+- `-a`.✅기존파일.❌신규파일.따로잡아줘야함
+- `-a`.✅기존파일.❌신규파일.따로잡아줘야함.`add .`
+- 꿀팁: 만약 새로 만든 파일이 포함되어 있다면, 안전하게 git add . && git commit -m "메시지"를 쓰는 습관을 들이는 게 정신 건강에 좋습니다.
+- -a 옵션은 Git이 이미 관리하고 있던(Tracked) 파일의 '수정'이나 '삭제'만 감지합니다.
+- `-a`.성공하는 경우: 기존에 있던 index.html이나 script.js 파일을 수정하고 커밋할 때.
+- `-a`.실패하는 경우: 프로젝트에 새로운 파일(Untracked)을 만들었을 때. 이 파일은 반드시 처음에 git add [파일명]을 한 번 해줘야 -a 옵션이 먹힙니다.
+- -a (all): 변경된 파일들을 자동으로 Staging Area로 올립니다. (git add 생략)

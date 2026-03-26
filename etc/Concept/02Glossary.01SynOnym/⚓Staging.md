@@ -6,6 +6,9 @@
 - `Staging`=`GitAdd`
 - Staging=GitAdding
 - Staging=add
+- Staging.add
+- Staging.Add
+- `Staging`.`add`
 - Staging=`git add`
 - Stage
 - 스테이징
@@ -34,3 +37,6 @@
 - 📌표현▶️표현혼선때문에-토발즈-Staging으로 명명화
 - GitStaging
 - Git.Staging
+- staged for commit
+- Staged for commit
+- Staged

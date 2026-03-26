@@ -1,6 +1,1 @@
 git add .
-
-
-: '
-Comment ...
-'

@@ -1,0 +1,30 @@
+- StagingCommit
+- Git.Staging.Commit
+- GitStagingCommit
+- `GitStagingCommit`
+- `StagingCommit`
+- CommitStaging
+- Staging-StagingCommit
+- Staging-CommitStaging
+- Commit-StagingCommit
+- 📌표현▶️CommitStaging<<StagingCommit
+- 📌표현▶️절차적-CommitStaging<<StagingCommit
+- 📌표현▶️객체적<<절차적-CommitStaging<<StagingCommit
+- 📌표현▶️시간적-CommitStaging<<StagingCommit
+- 📌표현▶️공간적<<시간적-CommitStaging<<StagingCommit
+- 📌표현▶️시간적>>공간적-CommitStaging<<StagingCommit
+- 스테이징커밋
+- 스테이징.커밋
+- 안타깝게도 Git 자체 명령어 중에는 '완전히 새로운 파일'까지 포함해서 한 번에 스테이징+커밋을 해주는 단일 옵션은 없습니다.
+- 하지만 리눅스나 macOS 터미널 환경을 쓰신다면 단축 명령어(Alias)를 활용해 마치 하나의 명령어처럼 쓸 수 있습니다.
+- 새 파일이 없을 때는 git commit -am "메시지"가 제일 빠르고, 새 파일이 섞여 있다면 **git add . && git commit -m "메시지"**가 정답입니다!
+- 활용.✅`add .`
+- 활용.❌`-am`
+- 활용.❌`-am`.활용지양
+- 활용.❌`-am`.너무제약적
+- 활용.❌`-am`.너무한계적
+- 활용.❌활용.`-a`.추가파일인식불능
+- 활용.❌`git commit -am ✏️Message`
+- 활용.❌`git commit -am '✏️Message'`
+- 활용.❌`git commit -am "✏️Message"`
+- 활용.❌`git commit -a -m "✏️Message"`
