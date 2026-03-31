@@ -1,0 +1,30 @@
+- GitPush
+- Git.Push
+- Push
+- push
+- git push
+- `git push`
+- `git push`>>`git push origin main`
+- `git push`>>`git push origin main`-근래
+- `git push`>>`git push origin main`-브랜치로부터 작업중인경우 허다
+- `git push`>>`git push origin main`-협업.충돌가능성배제
+- `git push`<<`git push origin main`-종래
+- `git push`<<`git push origin main`-명확
+- `git push`-로컬브랜치 원격브랜치
+- `git push`-로컬브랜치ㆍ원격브랜치
+- `git push`-로컬브랜치ㆍ원격브랜치.main이 일반적이라 main으로감
+- `git push`-로컬브랜치ㆍ원격브랜치.main이 일반적이라 main으로갈뿐
+- `git push`-로컬브랜치ㆍ원격브랜치.동일브랜치
+- `git push`-로컬브랜치ㆍ원격브랜치(동일)
+- Pushing
+- (push): git push를 할 때, 즉 내가 만든 코드를 서버로 올릴 때 사용하는 주소입니다.
+- `git push <저장소이름> <브랜치이름>`
+- 현재 로컬브랜치 → 원격(origin)의 같은 이름의 브랜치
+- main인경우 main으로 넘어감
+- `git push`.생각보다 `git push`>>`git push origin main`-main에 충돌되거나. 브랜치잡고있는경우 브랜치로가는게 맞기에.
+- `git push`.작업한 브랜치에서 바로 main으로 push를 쏘는 방식은 매우 위험하고 협업 관례에 어긋납니다.
+- `git push`.브랜치따서작업ㆍ메인푸시01.Push 자체가 거절되는 경우 (가장 흔함)
+- `git push`.브랜치따서작업ㆍ메인푸시02.내가 브랜치를 따서 작업하는 동안, 누군가 이미 main에 새로운 커밋을 올렸다면?
+- `git push`.브랜치따서작업ㆍ메인푸시03.현상: [rejected] main -> main (non-fast-forward) 에러가 뜹니다.
+- `git push`.브랜치따서작업ㆍ메인푸시04.이유: 원격 main이 내 로컬 상태보다 앞서 있기 때문에, Git은 데이터 유실을 막으려고 Push를 막아버립니다.
+- `git push`.브랜치따서작업ㆍ메인푸시05.해결: git pull origin main을 먼저 해서 원격의 변경 사항을 내 로컬로 가져와야 합니다. 이 과정에서 진짜 "충돌"이 발생할 수 있습니다.

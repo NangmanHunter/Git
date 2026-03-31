@@ -26,6 +26,8 @@ git merge 🪜BranchName
 ```bash
 git branch -d 🪜BranchName
 ```
+
+
 `RemoteBranch삭제`
 ```bash
 git push origin --delete 🪜BranchName

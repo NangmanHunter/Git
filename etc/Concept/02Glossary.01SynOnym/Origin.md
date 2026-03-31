@@ -7,3 +7,8 @@
 - 📌03▶️remote 주소: https://github.com/user/repo.git
 - git clone👉내 fork 저장소를 로컬에 복사함. 기본 원격은 origin임
 - origin이름이 default로 잡힘.
+- "나는 외부 저장소를 **'origin'**이라는 별명으로 부르기로 했어. 그리고 이 별명은 https://github.com/NangmanHunter/git.git라는 실제 주소를 가리키고 있지. 앞으로 내가 코드를 가져오거나 보낼 때 모두 이 주소를 사용할 거야."
+- Origin.Alias
+- Origin.별칭
+- Origin.`https://github.com/user/repo.git`
+- Origin.`https://github.com/ ... / ... .git`

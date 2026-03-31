@@ -1,0 +1,10 @@
+- 왜 굳이 두 개로 나눠져 있나요?
+- 대부분의 개인 프로젝트에서는 위 결과처럼 두 주소가 같습니다. 하지만 오픈소스 프로젝트에 기여하거나 규모가 큰 개발 환경에서는 이를 다르게 설정하는 경우가 있습니다.
+- 오픈소스 기여 시: 원본 코드(Upstream)는 읽기만 하고(fetch), 내가 수정한 코드는 내 개인 저장소(Fork)로 올릴(push) 때 주소를 다르게 지정할 수 있습니다.
+- 코드 보안/검수: 코드를 내려받는 곳은 공식 서버지만, 올릴 때는 반드시 검수 서버(Code Review Server)를 거쳐야 하는 환경에서 유용합니다.
+- 만약 다른 곳을 추가한다면?👉만약 나중에 직접 운영하는 **개인 서버(Mini PC 등)**나 다른 저장소를 추가하면 목록이 이렇게 늘어납니다.
+- 만약 다른 곳을 추가한다면?👉`origin  https://github.com/NangmanHunter/git.git (fetch)`
+- 만약 다른 곳을 추가한다면?👉`origin  https://github.com/NangmanHunter/git.git (push)`
+- 만약 다른 곳을 추가한다면?👉`backup  https://my-home-server.com/git.git (fetch)`
+- 만약 다른 곳을 추가한다면?👉`backup  https://my-home-server.com/git.git (push)`
+- 만약 다른 곳을 추가한다면?👉이렇게 되면 git push origin main은 깃허브로, git push backup main은 내 개인 서버로 코드를 보내게 됩니다.

@@ -1,0 +1,17 @@
+- '업스트림(Upstream)' 설정
+- 처음 코드를 올릴 때 아마 git push -u origin main 같은 명령어를 써보셨을 겁니다.
+- 여기서 -u (또는 --set-upstream) 옵션이 핵심입니다.
+- 이 옵션을 한 번이라도 썼다면: "내 컴퓨터의 main 브랜치는 앞으로 무조건 origin의 main이랑 짝꿍이야!"라고 기억해 둡니다.
+- 그 이후부터는: 굳이 origin main이라고 안 써도 git push 한 줄이면 짝꿍을 찾아 알아서 날아갑니다.
+- -u 옵션은 일종의 **"단축키 등록"**이나 **"즐겨찾기 지정"**과 같은 역할을 합니다.
+- -u가 실제로 하는 일 (Upstream 설정)
+- -u는 --set-upstream의 줄임말입니다. 이 옵션을 넣어서 git push -u origin main이라고 명령을 내리면, Git 내부에서는 다음과 같은 일이 벌어집니다.
+- 전송: 일단 현재 코드를 origin 저장소의 main 브랜치로 보냅니다.
+- 박제: "내 컴퓨터의 main 브랜치는 앞으로 origin의 main 브랜치를 바라본다"라고 설정을 저장합니다.
+- 설정된 이후의 변화.이렇게 한 번 연결(Tracking)이 되고 나면, 그다음부터는 아주 편해집니다.
+- 설정된 이후의 변화.git push: 자동으로 origin main으로 올라감
+- 설정된 이후의 변화.git pull: 자동으로 origin main에서 가져옴
+- `-u`.`origin`ㆍ`main`연결형
+- `-u`.`origin`ㆍ`main`연결
+- `git branch -vv`-연결확인
+- `git branch -vv`-결과 옆에 [origin/main] 같은 표시가 보인다면, -u 옵션으로 이미 훌륭하게 연결이 되어 있는 상태입니다!

@@ -1,0 +1,3 @@
+- Fetch
+- fetch
+- (fetch): git fetch나 git pull을 할 때, 즉 서버에서 코드를 내려받을 때 사용하는 주소입니다.

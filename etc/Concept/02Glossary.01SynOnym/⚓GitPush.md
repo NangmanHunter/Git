@@ -1,6 +1,0 @@
-- GitPush
-- Push
-- push
-- git push
-- `git push`
-- Pushing
