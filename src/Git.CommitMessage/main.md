@@ -1,3 +1,9 @@
+## CommitMessage
+- [x] `feat`
+- [x] `fix`
+- [x] `docs`
+
+
 ## GitCommitMessage
 Form
 ```bash
@@ -7,20 +13,6 @@ Form
 
 <footer>
 ```
-
-Example
-```bash
-feat(auth): add JWT-based login
-```
-```bash
-fix(api): correct null pointer when no data
-```
-```bash
-docs(readme): update installation guide
-```
-
-
-Example
 ```bash
 feat(ui): add responsive layout for mobile
 fix(auth): correct token validation logic
