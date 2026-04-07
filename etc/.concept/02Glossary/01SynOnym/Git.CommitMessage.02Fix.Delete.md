@@ -1,0 +1,4 @@
+- Git.CommitMessage.02Fix.Delete
+- Git.CommitMessage.02fix.delete
+- `fix`.`delete`
+- delete 이부분도 fix로 넣어버려도 ㅇㅋ인듯. 그렇게다른것도아님. 이것진행ㄱㄱ.-단순화가 가장중요ㄱㄱ.

@@ -1,0 +1,6 @@
+- 02.fix
+- Git.CommitMessage.02.fix
+- Git.CommitMessage.02fix
+- Git.CommitMessage.02Fix
+- Example: `fix(api): correct null pointer when no data`
+- `fix: 한글 깨짐 현상 수정` (버그 수정)

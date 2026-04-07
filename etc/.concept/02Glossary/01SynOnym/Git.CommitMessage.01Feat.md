@@ -1,0 +1,6 @@
+- 01.feat
+- Git.CommitMessage.01.feat
+- Git.CommitMessage.01feat
+- Git.CommitMessage.01Feat
+- Example: `feat(auth): add JWT-based login`
+- `feat: 세금 계산 로직 추가` (새 기능)

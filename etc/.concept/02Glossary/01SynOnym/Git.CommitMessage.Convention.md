@@ -1,4 +1,7 @@
 - GitCommitMessageConvention
+- GitCommitMessage.Convention
+- Git.CommitMessage.Convention
+- Git.Commit.Message.Convention
 - `GitCommitMessageConvention`
 - GitCommitMessages
 - `git commit -m`
